@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab3Task2</string>
+    <string name="camera">CAMERA</string>
+    <string name="browser">BROWSER</string>
+    <string name="call_log">CALL LOG</string>
+    <string name="gallery">GALLERY</string>
+    <string name="dialpad">DIALPAD</string>
+    <string name="enter_phono_no_website_location">Enter Phono no./Website/Location</string>
+    <string name="call">CALL</string>
+    <string name="contact">CONTACT</string>
+</resources>
